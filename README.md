@@ -129,15 +129,15 @@ python -m unittest discover -s tests -v
 
 ### Hauptmenü
 
-*Screenshot folgt*
+![Hauptmenü](Menu.png)
 
 ### Gameplay
 
-*Screenshot folgt*
+![Gameplay](Gameplay.png)
 
 ### Boss Fight
 
-*Screenshot folgt*
+![Boss Fight](Bossfight.png)
 
 ---
 
