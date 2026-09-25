@@ -143,7 +143,7 @@ python -m unittest discover -s tests -v
 
 ## 🎥 Video
 
-Ein kurzes Video mit dem Gameplay folgt.
+[▶️ Pixel Run Gameplay ansehen](https://youtu.be/7TJVBWwIjV8)
 
 ---
 
