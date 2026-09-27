@@ -120,7 +120,7 @@ Die Tests überprüfen unter anderem:
 Tests starten mit:
 
 ```bash
-python -m unittest discover -s tests -v
+python -m unittest test_levels -v
 ```
 
 ---
