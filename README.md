@@ -75,8 +75,7 @@ pixel-run/
 ├── constants.py
 ├── requirements.txt
 │
-├── tests/
-│   └── test_levels.py
+├── test_levels.py
 │
 └── docs/
     └── screenshots/
